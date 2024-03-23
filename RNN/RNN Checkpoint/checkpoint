@@ -1,0 +1,2 @@
+model_checkpoint_path: "detect_ai_generated"
+all_model_checkpoint_paths: "detect_ai_generated"
